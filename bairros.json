@@ -1,5 +1,6 @@
 {
   "descricao": "Uma lista com todos os bairros de Crato-CE.",
+  "repositorio": "https://github.com/saulojoab/bairros-crato-ce-JSON/",
   "bairros":
   [
     "Alto da Penha",'
