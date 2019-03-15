@@ -1,0 +1,40 @@
+{
+  "descricao": "Uma lista com todos os bairros de Crato-CE.",
+  "bairros":
+  [
+    "Alto da Penha",'
+    "Barro Branco",
+    "Cacimbas",
+    "Centro",
+    "Coqueiro",
+    "Cruz",
+    "Franca Alencar",
+    "Gisélia Pinheiro",
+    "Grangeiro",
+    "Independência",
+    "Lameiro",
+    "Mirandão",
+    "Muriti",
+    "Novo Crato",
+    "Novo Horizonte",
+    "Novo Lameiro",
+    "Ossian Araripe",
+    "Palmeiral",
+    "Parque Grangeiro",
+    "Parque Recreio",
+    "Pimenta",
+    "Pinto Madeira",
+    "Santa Luzia",
+    "São Bento",
+    "São José",
+    "São Miguel",
+    "Seminário",
+    "Sossego",
+    "Vila Alta",
+    "Vila Bacurau",
+    "Vila Lobo",
+    "Vila Silvestre",
+    "Zacarias Gonçalves",
+    "Zona Rural"
+  ]
+}
